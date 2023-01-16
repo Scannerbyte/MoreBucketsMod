@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "morebuckets:block/bucket_block" }
+  }
+}
